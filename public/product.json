@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Self-Development Book",
+      "price": 100,
+      "image": "/assets/book.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Water Bottle",
+      "price": 80,
+      "image": "/assets/bottle.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Travel Bag",
+      "price": 1000,
+      "image": "/assets/Travelbag.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Shirt",
+      "price": 780,
+      "image": "/assets/shirt.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sunglasses",
+      "price": 400,
+      "image": "/assets/Sunglasses.jpg"
+    }
+    
+   
+   
+   
+  ]
+  
